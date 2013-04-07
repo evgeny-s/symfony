@@ -1,0 +1,18 @@
+[Sat Apr 06 02:37:54 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: D:/ZendServer/Apache2/htdocs/symfony.bi/
+[Sat Apr 06 02:37:54 2013] [error] [client 127.0.0.1] File does not exist: D:/ZendServer/Apache2/htdocs/symfony.bi/favicon.ico
+[Sat Apr 06 02:37:54 2013] [error] [client 127.0.0.1] File does not exist: D:/ZendServer/Apache2/htdocs/symfony.bi/favicon.ico
+[Sat Apr 06 02:39:58 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:39:59 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:39:59 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:39:59 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:00 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:00 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:00 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:00 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:00 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:01 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:01 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:01 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:01 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/
+[Sat Apr 06 02:40:07 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/dev_app.php
+[Sat Apr 06 02:40:18 2013] [error] [client 127.0.0.1] client denied by server configuration: D:/ZendServer/Apache2/htdocs/symfony.bi/app/app_dev.php

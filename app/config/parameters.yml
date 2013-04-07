@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: symfony_first
+    database_user: abiatecr_radmin
+    database_password: bobrya200
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 0d924bd8fb107ebdcb693a1f658cbf3e8
+    database_path: null

@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'D:/ZendServer/Apache2/htdocs/symfony.bi/app/config/routing_dev.yml'
